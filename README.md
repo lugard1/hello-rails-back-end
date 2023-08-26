@@ -23,11 +23,13 @@
 
 # 📖 Hello Rails Back End <a name="hello-rails-back-end"></a>
 
-**Hello Rails Back End** This project demonstrates the integration of both frontend and backend functionalities using Ruby on Rails and React within a single application powered by Webpack. The application showcases the retrieval and display of random greetings stored in the backend database, highlighting the seamless interaction between the two components.
+**Hello Rails Back End** This project demonstrates the integration of both frontend and backend functionalities using Ruby on Rails and React within a two application system. The application stores the messages in the postgresql database which is retrieved by the front en react app linked to it for the display of random greetings as stored in the backend database, highlighting the seamless interaction between the two applications.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+
+[Front End repository](https://github.com/lugard1/hello-rails-front-end)
 
 <details>
   <summary>Client</summary>
@@ -66,7 +68,6 @@ In order to run this project you need the following installed in your local syst
 - Posgresql
 - Node.js
 - Yarn
-- React
 - Git CLI
 - Github account
 
