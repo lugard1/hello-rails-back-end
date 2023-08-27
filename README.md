@@ -43,6 +43,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **Backend Addition**
+- **Frontend Addition**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
